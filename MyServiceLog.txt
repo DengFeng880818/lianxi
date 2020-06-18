@@ -1,0 +1,549 @@
+2020/5/24 22:25:18,服务停止！
+2020/5/24 22:25:28,服务启动！
+2020/5/24 22:25:28,服务启动！
+2020/5/24 22:25:29,colcount！原文件夹路径
+2020/5/24 22:25:29,原文件路径有误！
+2020/5/24 22:52:51,服务停止！
+2020/5/24 22:54:47,服务启动！
+2020/5/24 22:54:48,colcount！原文件夹路径
+2020/5/24 22:54:48,catcn文件有误System.UnauthorizedAccessException: 对路径的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 120
+2020/5/24 22:54:50,服务停止！
+2020/5/24 22:54:58,服务启动！
+2020/5/24 22:55:22,服务启动！
+2020/5/24 22:57:23,服务启动！
+2020/5/24 22:58:30,服务启动！
+2020/5/24 22:58:31,服务启动！
+2020/5/24 22:58:31,colcount！原文件夹路径
+2020/5/24 22:58:31,catcn文件有误System.UnauthorizedAccessException: 对路径的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 120
+2020/5/24 23:00:25,服务启动！
+2020/5/24 23:00:40,服务停止！
+2020/5/24 23:01:02,服务启动！
+2020/5/24 23:01:03,服务启动！
+2020/5/24 23:01:03,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 52
+2020/5/24 23:03:30,服务停止！
+2020/5/24 23:04:20,服务启动！
+2020/5/24 23:04:20,服务启动！
+2020/5/24 23:04:20,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 52
+2020/5/24 23:08:48,服务停止！
+2020/5/24 23:09:00,服务启动！
+2020/5/24 23:09:00,服务启动！
+2020/5/24 23:09:00,colcount！原文件夹路径
+2020/5/24 23:09:00,catcn文件有误System.ArgumentException: 第二个路径段不得为驱动器或 UNC 名称。
+参数名: path2
+   在 System.IO.Path.InternalCombine(String path1, String path2)
+   在 System.IO.FileSystemEnumerableIterator`1.GetFullSearchString(String fullPath, String searchPattern)
+   在 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   在 System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   在 System.IO.DirectoryInfo.GetFiles(String searchPattern)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 108
+2020/5/24 23:10:08,服务停止！
+2020/5/24 23:10:17,服务启动！
+2020/5/24 23:10:17,服务启动！
+2020/5/24 23:10:18,colcount！原文件夹路径
+2020/5/24 23:10:18,catcn文件有误System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 120
+2020/5/24 23:10:59,服务停止！
+2020/5/24 23:11:30,服务启动！
+2020/5/24 23:11:31,colcount！原文件夹路径
+2020/5/24 23:11:31,catcn文件有误System.UnauthorizedAccessException: 对路径的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 120
+2020/5/25 8:42:50,服务启动！
+2020/5/25 9:07:21,服务启动！
+2020/5/25 9:07:30,服务停止！
+2020/5/25 9:07:35,服务启动！
+2020/5/25 9:07:36,服务启动！
+2020/5/25 9:07:36,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 52
+2020/5/25 9:20:52,服务停止！
+2020/5/25 9:21:48,服务启动！
+2020/5/25 9:21:55,服务启动！
+2020/5/25 9:21:55,服务启动！
+2020/5/25 9:21:55,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 47
+2020/5/25 9:23:50,服务停止！
+2020/5/25 9:25:34,服务启动！
+2020/5/25 9:25:37,服务启动！
+2020/5/25 9:25:38,服务启动！
+2020/5/25 9:25:38,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 9:54:51,服务启动！
+2020/5/25 9:54:59,服务停止！
+2020/5/25 9:55:19,服务启动！
+2020/5/25 9:55:19,服务启动！
+2020/5/25 9:55:19,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 10:20:57,服务停止！
+2020/5/25 10:22:07,服务启动！
+2020/5/25 10:22:08,服务启动！
+2020/5/25 10:22:08,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 10:27:23,服务停止！
+2020/5/25 10:27:53,服务启动！
+2020/5/25 10:27:53,服务启动！
+2020/5/25 10:27:53,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 10:32:22,服务停止！
+2020/5/25 10:33:03,服务启动！
+2020/5/25 10:33:06,服务启动！
+2020/5/25 10:33:06,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 10:47:12,服务启动！
+2020/5/25 10:47:22,服务停止！
+2020/5/25 10:47:34,服务启动！
+2020/5/25 10:47:34,服务启动！
+2020/5/25 10:47:34,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 11:17:09,服务停止！sss
+2020/5/25 11:18:08,服务启动！
+2020/5/25 11:18:10,服务启动！
+2020/5/25 11:18:44,服务启动！
+2020/5/25 11:18:44,colcount！原文件夹路径
+2020/5/25 11:18:44,colcount！D:\456789
+2020/5/25 11:18:44,rowCount！D:\456789
+2020/5/25 11:18:44,新文件路径有误！
+2020/5/25 11:21:15,服务停止！sss
+2020/5/25 11:21:40,服务启动！
+2020/5/25 11:21:40,colcount！原文件夹路径
+2020/5/25 11:21:40,colcount！D:\456789
+2020/5/25 11:21:40,rowCount！D:\456789
+2020/5/25 11:21:40,新文件路径有误！
+2020/5/25 11:26:21,服务停止！sss
+2020/5/25 11:27:11,服务启动！
+2020/5/25 11:27:11,服务启动！
+2020/5/25 11:27:12,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 48
+2020/5/25 13:08:30,服务停止！sss
+2020/5/25 13:12:43,服务启动！
+2020/5/25 13:12:46,服务启动！
+2020/5/25 13:12:47,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 13:15:16,服务启动！
+2020/5/25 13:15:46,服务停止！sss
+2020/5/25 13:16:26,服务启动！
+2020/5/25 13:16:27,服务启动！
+2020/5/25 13:16:27,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 13:23:22,服务停止！sss
+2020/5/25 13:25:26,服务启动！
+2020/5/25 13:25:26,服务启动！
+2020/5/25 13:25:26,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 13:27:30,服务停止!
+2020/5/25 13:29:29,服务启动！
+2020/5/25 13:29:29,服务启动！
+2020/5/25 13:29:30,colcount！原文件夹路径
+2020/5/25 13:29:30,colcount！D:\456789
+2020/5/25 13:29:30,rowCount！D:\456789
+2020/5/25 13:29:30,原文件路径有误！
+2020/5/25 13:39:40,服务停止!
+2020/5/25 13:40:26,服务启动！
+2020/5/25 13:40:26,colcount！原文件夹路径
+2020/5/25 13:40:26,colcount！D:\456789\
+2020/5/25 13:40:26,rowCount！D:\456789\
+2020/5/25 13:40:26,原文件路径有误！
+2020/5/25 13:41:38,服务停止!
+2020/5/25 13:41:58,服务启动！
+2020/5/25 13:41:59,colcount！原文件夹路径
+2020/5/25 13:41:59,colcount！D:\456789\
+2020/5/25 13:41:59,rowCount！D:\456789\
+2020/5/25 13:41:59,原文件路径有误！
+2020/5/25 13:43:21,服务停止!
+2020/5/25 13:43:31,服务启动！
+2020/5/25 13:43:31,colcount！原文件夹路径
+2020/5/25 13:43:31,colcount！D:\456789
+2020/5/25 13:43:31,rowCount！D:\456789
+2020/5/25 13:43:31,原文件路径有误！
+2020/5/25 13:47:20,服务停止!
+2020/5/25 13:49:08,服务启动！
+2020/5/25 13:49:11,服务启动！
+2020/5/25 13:49:12,colcount！原文件夹路径
+2020/5/25 13:49:12,colcount！D:\456789
+2020/5/25 13:49:12,rowCount！D:\456789
+2020/5/25 13:49:12,新文件路径有误！
+2020/5/25 13:54:57,服务停止!
+2020/5/25 13:55:21,服务启动！
+2020/5/25 13:55:21,服务启动！
+2020/5/25 13:55:21,colcount！原文件夹路径
+2020/5/25 13:55:21,colcount！D:\456789
+2020/5/25 13:55:21,rowCount！D:\456789
+2020/5/25 13:55:21,新文件路径有误！
+2020/5/25 13:56:48,服务停止!
+2020/5/25 13:56:59,服务启动！
+2020/5/25 13:56:59,服务启动！
+2020/5/25 13:57:00,colcount！原文件夹路径
+2020/5/25 13:57:00,colcount！D:\456789
+2020/5/25 13:57:00,rowCount！D:\456789
+2020/5/25 13:57:00,原文件路径有误！
+2020/5/25 13:57:53,服务停止!
+2020/5/25 13:58:06,服务启动！
+2020/5/25 13:58:06,服务启动！
+2020/5/25 13:58:06,colcount！原文件夹路径
+2020/5/25 13:58:06,colcount！D:\456789
+2020/5/25 13:58:06,rowCount！D:\456789
+2020/5/25 13:58:06,原文件路径有误！
+2020/5/25 13:59:07,服务停止!
+2020/5/25 13:59:23,服务启动！
+2020/5/25 13:59:23,服务启动！
+2020/5/25 13:59:23,colcount！原文件夹路径
+2020/5/25 13:59:23,colcount！D:\456789
+2020/5/25 13:59:23,rowCount！D:\456789
+2020/5/25 13:59:23,新文件路径有误！
+2020/5/25 14:00:04,服务停止!
+2020/5/25 14:00:28,服务启动！
+2020/5/25 14:00:28,服务启动！
+2020/5/25 14:00:29,colcount！原文件夹路径
+2020/5/25 14:00:29,colcount！D:\456789
+2020/5/25 14:00:29,rowCount！D:\456789
+2020/5/25 14:00:29,新文件路径有误！
+2020/5/25 14:01:15,服务停止!
+2020/5/25 14:01:44,服务启动！
+2020/5/25 14:02:32,服务启动！
+2020/5/25 14:06:00,服务启动！
+2020/5/25 14:06:00,服务启动！
+2020/5/25 14:06:00,colcount！原文件夹路径
+2020/5/25 14:06:00,colcount！D:\456789
+2020/5/25 14:06:00,rowCount！D:\456789
+2020/5/25 14:06:00,新文件路径有误！
+2020/5/25 14:08:20,服务启动！
+2020/5/25 14:08:40,服务停止!
+2020/5/25 14:09:11,服务启动！
+2020/5/25 14:09:11,colcount！原文件夹路径
+2020/5/25 14:09:11,colcount！文件名
+2020/5/25 14:09:11,rowCount！E:\880818
+2020/5/25 14:09:11,新文件路径有误！
+2020/5/25 14:10:09,服务停止!
+2020/5/25 14:12:57,服务启动！
+2020/5/25 14:12:57,服务启动！
+2020/5/25 14:12:57,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 14:20:56,服务停止!
+2020/5/25 14:21:32,服务启动！
+2020/5/25 14:21:35,服务启动！
+2020/5/25 14:21:35,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 14:22:09,服务停止!
+2020/5/25 14:22:32,服务启动！
+2020/5/25 14:22:32,服务启动！
+2020/5/25 14:22:32,colcount！原文件夹路径
+2020/5/25 14:22:32,colcount！文件名
+2020/5/25 14:22:32,rowCount！新文件夹路径
+2020/5/25 14:22:32,新文件路径有误！
+2020/5/25 14:28:10,服务停止!
+2020/5/25 14:28:29,服务启动！
+2020/5/25 14:28:29,服务启动！
+2020/5/25 14:28:29,colcount！原文件夹路径
+2020/5/25 14:28:29,colcount！文件名
+2020/5/25 14:28:29,rowCount！新文件夹路径
+2020/5/25 14:28:29,新文件路径有误！
+2020/5/25 14:31:07,服务停止!
+2020/5/25 14:31:24,服务启动！
+2020/5/25 14:31:25,服务启动！
+2020/5/25 14:31:25,colcount！原文件夹路径
+2020/5/25 14:31:25,colcount！文件名
+2020/5/25 14:31:25,rowCount！新文件夹路径
+2020/5/25 14:31:25,新文件路径有误！
+2020/5/25 14:33:20,服务停止!
+2020/5/25 14:33:38,服务启动！
+2020/5/25 14:33:41,服务启动！
+2020/5/25 14:33:41,colcount！原文件夹路径
+2020/5/25 14:33:41,colcount！文件名
+2020/5/25 14:33:41,rowCount！新文件夹路径
+2020/5/25 14:33:41,新文件路径有误！
+2020/5/25 14:36:13,服务停止!
+2020/5/25 14:36:37,服务启动！
+2020/5/25 14:36:40,服务启动！
+2020/5/25 14:36:40,colcount！原文件夹路径
+2020/5/25 14:36:40,colcount！文件名
+2020/5/25 14:36:40,rowCount！新文件夹路径
+2020/5/25 14:36:40,catcn文件有误System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 121
+2020/5/25 14:37:30,服务停止!
+2020/5/25 14:38:03,服务启动！
+2020/5/25 14:38:03,服务启动！
+2020/5/25 14:38:03,colcount！原文件夹路径
+2020/5/25 14:38:03,colcount！文件名
+2020/5/25 14:38:03,rowCount！新文件夹路径
+2020/5/25 14:38:03,catcn文件有误System.UnauthorizedAccessException: 对路径的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 121
+2020/5/25 14:45:46,服务停止!
+2020/5/25 14:46:08,服务启动！
+2020/5/25 14:46:11,服务启动！
+2020/5/25 14:46:11,colcount！原文件夹路径
+2020/5/25 14:46:11,colcount！文件名
+2020/5/25 14:46:11,rowCount！新文件夹路径
+2020/5/25 14:46:11,catcn文件有误System.IO.FileNotFoundException: 无法找到指定文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.__Error.WinIOError()
+   在 System.IO.FileInfo.MoveTo(String destFileName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 121
+2020/5/25 14:50:34,服务停止!
+2020/5/25 14:50:52,服务启动！
+2020/5/25 14:50:52,服务启动！
+2020/5/25 14:50:52,colcount！原文件夹路径
+2020/5/25 14:50:52,colcount！文件名
+2020/5/25 14:50:52,rowCount！新文件夹路径
+2020/5/25 14:50:52,catcn文件有误System.IO.IOException: 源路径和目标路径必须不同。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 14:53:22,服务停止!
+2020/5/25 14:53:40,服务启动！
+2020/5/25 14:53:41,服务启动！
+2020/5/25 14:53:41,colcount！原文件夹路径
+2020/5/25 14:53:41,colcount！文件名
+2020/5/25 14:53:41,rowCount！新文件夹路径
+2020/5/25 14:53:41,catcn文件有误System.IO.IOException: 源路径和目标路径必须具有相同的根。移动操作在卷之间无效。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 14:55:14,服务停止!
+2020/5/25 14:55:34,服务启动！
+2020/5/25 14:55:35,服务启动！
+2020/5/25 14:55:35,colcount！原文件夹路径
+2020/5/25 14:55:35,colcount！文件名
+2020/5/25 14:55:35,rowCount！新文件夹路径
+2020/5/25 14:55:35,catcn文件有误System.IO.IOException: 源路径和目标路径必须具有相同的根。移动操作在卷之间无效。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:00:12,服务停止!
+2020/5/25 15:00:44,服务启动！
+2020/5/25 15:00:45,服务启动！
+2020/5/25 15:00:45,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 15:01:24,服务停止!
+2020/5/25 15:01:54,服务启动！
+2020/5/25 15:01:55,服务启动！
+2020/5/25 15:01:55,colcount！原文件夹路径
+2020/5/25 15:01:55,colcount！文件名
+2020/5/25 15:01:55,rowCount！新文件夹路径
+2020/5/25 15:01:55,catcn文件有误System.IO.IOException: 源路径和目标路径必须不同。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:02:30,服务停止!
+2020/5/25 15:02:48,服务启动！
+2020/5/25 15:02:51,服务启动！
+2020/5/25 15:02:51,colcount！原文件夹路径
+2020/5/25 15:02:51,colcount！文件名
+2020/5/25 15:02:51,rowCount！新文件夹路径
+2020/5/25 15:02:51,catcn文件有误System.IO.IOException: 源路径和目标路径必须不同。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:03:31,服务停止!
+2020/5/25 15:03:49,服务启动！
+2020/5/25 15:03:49,服务启动！
+2020/5/25 15:03:49,colcount！原文件夹路径
+2020/5/25 15:03:49,colcount！文件名
+2020/5/25 15:03:49,rowCount！新文件夹路径
+2020/5/25 15:03:49,catcn文件有误System.IO.IOException: 源路径和目标路径必须具有相同的根。移动操作在卷之间无效。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:13:37,服务停止!
+2020/5/25 15:13:51,服务启动！
+2020/5/25 15:13:51,服务启动！
+2020/5/25 15:13:51,colcount！原文件夹路径
+2020/5/25 15:13:51,colcount！文件名
+2020/5/25 15:13:51,rowCount！新文件夹路径
+2020/5/25 15:13:51,catcn文件有误System.IO.IOException: 当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:15:07,服务停止!
+2020/5/25 15:15:22,服务启动！
+2020/5/25 15:15:22,服务启动！
+2020/5/25 15:15:23,colcount！原文件夹路径
+2020/5/25 15:15:23,colcount！文件名
+2020/5/25 15:15:23,rowCount！新文件夹路径
+2020/5/25 15:15:23,catcn文件有误System.IO.IOException: 源路径和目标路径必须具有相同的根。移动操作在卷之间无效。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:15:50,服务启动！
+2020/5/25 15:17:08,服务停止!
+2020/5/25 15:17:32,服务启动！
+2020/5/25 15:17:32,服务启动！
+2020/5/25 15:17:33,colcount！原文件夹路径
+2020/5/25 15:17:33,colcount！文件名
+2020/5/25 15:17:33,rowCount！新文件夹路径
+2020/5/25 15:17:33,原文件路径有误！
+2020/5/25 15:19:00,服务停止!
+2020/5/25 15:19:17,服务启动！
+2020/5/25 15:19:18,服务启动！
+2020/5/25 15:19:18,colcount！原文件夹路径
+2020/5/25 15:19:18,colcount！文件名
+2020/5/25 15:19:18,rowCount！新文件夹路径
+2020/5/25 15:19:18,catcn文件有误System.IO.IOException: 源路径和目标路径必须不同。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:25:52,服务停止!
+2020/5/25 15:26:19,服务启动！
+2020/5/25 15:26:22,服务启动！
+2020/5/25 15:26:22,colcount！原文件夹路径
+2020/5/25 15:26:22,colcount！文件名
+2020/5/25 15:26:22,rowCount！新文件夹路径
+2020/5/25 15:26:22,catcn文件有误System.IO.IOException: 源路径和目标路径必须具有相同的根。移动操作在卷之间无效。
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:31:19,服务停止!
+2020/5/25 15:32:07,服务启动！
+2020/5/25 15:32:07,服务启动！
+2020/5/25 15:32:07,catcn文件有误System.IO.IOException: 文件“D:\eee.xlsx”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 49
+2020/5/25 15:32:25,服务停止!
+2020/5/25 15:32:44,服务启动！
+2020/5/25 15:32:44,服务启动！
+2020/5/25 15:32:44,colcount！原文件夹路径
+2020/5/25 15:32:44,colcount！文件名
+2020/5/25 15:32:44,rowCount！新文件夹路径
+2020/5/25 15:32:44,catcn文件有误System.IO.IOException: 当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:34:06,服务停止!
+2020/5/25 15:34:27,服务启动！
+2020/5/25 15:34:27,服务启动！
+2020/5/25 15:34:27,colcount！原文件夹路径
+2020/5/25 15:34:27,colcount！文件名
+2020/5/25 15:34:27,rowCount！新文件夹路径
+2020/5/25 15:34:28,新文件路径有误！
+2020/5/25 15:37:45,服务停止!
+2020/5/25 15:38:06,服务启动！
+2020/5/25 15:38:06,服务启动！
+2020/5/25 15:38:06,colcount！原文件夹路径
+2020/5/25 15:38:06,colcount！文件名
+2020/5/25 15:38:06,rowCount！新文件夹路径
+2020/5/25 15:38:06,catcn文件有误System.IO.IOException: 当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 15:50:41,服务停止!
+2020/5/25 15:50:59,服务启动！
+2020/5/25 15:51:00,服务启动！
+2020/5/25 15:51:00,colcount！原文件夹路径
+2020/5/25 15:51:00,colcount！文件名
+2020/5/25 15:51:00,rowCount！新文件夹路径
+2020/5/25 15:51:00,catcn文件有误System.IO.IOException: 当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.DirectoryInfo.MoveTo(String destDirName)
+   在 ConsoleApp1.BizService.GetExcelData(String url) 位置 C:\Users\HP\source\repos\ConsoleApp1\ConsoleApp1\BizService.cs:行号 123
+2020/5/25 16:03:15,服务停止!
+2020/5/25 16:03:39,服务启动！
+2020/5/25 16:03:42,服务启动！
+2020/5/25 16:03:42,colcount！原文件夹路径
+2020/5/25 16:03:42,colcount！文件名
+2020/5/25 16:03:42,rowCount！新文件夹路径
+2020/5/25 16:15:57,服务停止!
+2020/5/25 16:16:50,服务启动！
+2020/5/25 16:16:50,服务启动！
+2020/5/25 16:16:50,colcount！原文件夹路径
+2020/5/25 16:16:50,colcount！文件名
+2020/5/25 16:16:50,rowCount！新文件夹路径
+2020/5/25 16:47:48,服务停止!
+2020/5/25 22:23:21,服务启动！
+2020/5/25 22:23:22,colcount！原文件夹路径
+2020/5/25 22:23:22,colcount！文件名
+2020/5/25 22:23:22,rowCount！新文件夹路径
+2020/5/25 22:23:22,原文件路径有误！
+2020/5/26 14:12:20,服务停止!
+2020/5/27 9:03:20,服务启动！
+2020/5/27 9:03:25,服务启动！
+2020/5/27 9:03:25,服务启动！
+2020/5/27 9:03:26,colcount！原文件夹路径
+2020/5/27 9:03:26,colcount！文件名
+2020/5/27 9:03:26,rowCount！新文件夹路径
+2020/5/27 13:18:55,服务停止!
+2020/5/27 17:29:28,服务启动！
+2020/5/27 17:29:29,colcount！原文件夹路径
+2020/5/27 17:29:29,colcount！文件名
+2020/5/27 17:29:29,rowCount！新文件夹路径
+2020/5/27 17:29:29,原文件路径有误！
+2020/5/29 8:49:40,服务启动！
+2020/5/29 8:49:41,colcount！原文件夹路径
+2020/5/29 8:49:41,colcount！文件名
+2020/5/29 8:49:41,rowCount！新文件夹路径
+2020/5/29 8:49:41,原文件路径有误！
+2020/6/9 11:50:05,服务启动！
+2020/6/9 11:50:05,colcount！原文件夹路径
+2020/6/9 11:50:05,colcount！文件名
+2020/6/9 11:50:05,rowCount！新文件夹路径
+2020/6/9 11:50:05,原文件路径有误！
+2020/6/11 15:48:45,服务启动！
+2020/6/11 15:48:46,colcount！原文件夹路径
+2020/6/11 15:48:46,colcount！文件名
+2020/6/11 15:48:46,rowCount！新文件夹路径
+2020/6/11 15:48:46,原文件路径有误！
+2020/6/13 21:22:18,服务启动！
+2020/6/13 21:22:19,colcount！原文件夹路径
+2020/6/13 21:22:19,colcount！文件名
+2020/6/13 21:22:19,rowCount！新文件夹路径
+2020/6/13 21:22:19,原文件路径有误！
